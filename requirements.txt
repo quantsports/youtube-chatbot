@@ -23,7 +23,7 @@ httptools==0.5.0
 humanfriendly==10.0
 idna==3.4
 langchain==0.0.202
-langchainplus-sdk==0.0.10
+langchainplus-sdk==0.0.20
 lz4==4.3.2
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
