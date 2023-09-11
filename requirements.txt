@@ -10,7 +10,7 @@ chromadb==0.3.26
 click==8.1.4
 clickhouse-connect==0.6.3
 coloredlogs==15.0.1
-dataclasses-json==0.5.8
+dataclasses-json==0.6.0
 duckdb==0.8.1
 exceptiongroup==1.1.1
 fastapi==0.97.0
